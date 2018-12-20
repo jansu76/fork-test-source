@@ -1,2 +1,3 @@
 c example conflict1
 edit from upstream
+edit from upstream 2
