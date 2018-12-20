@@ -5,3 +5,4 @@ upstream edit 3
 upstream edit 4
 upstream edit 5
 upstream edit 6, meanwhile fork just deleted this (renamed) file
+upstream edit 7, happens after the merge
