@@ -1,6 +1,6 @@
 rivi 1
 rivi 2 update 2
 rivi 3
-rivi 4
+rivi 4 update 2
 rivi 5
 
