@@ -9,4 +9,6 @@ b
 c
 upstriimista
 upstriimistä 2, ennen mergeä forkkiin
+workinfork1
+workinfork2
 
