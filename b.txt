@@ -2,4 +2,5 @@ b example
 edit from upstream
 edit deleted file in upstream
 still edit deleted file
+still edit deleted, before push?
 
